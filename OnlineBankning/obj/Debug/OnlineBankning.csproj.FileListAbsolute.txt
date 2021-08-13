@@ -98,8 +98,8 @@ C:\Users\User\source\repos\OnlineBankning\OnlineBankning\bin\Microsoft.Owin.Secu
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.csprojAssemblyReference.cache
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.csproj.CopyComplete
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.dll
 C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.pdb
+C:\Users\User\source\repos\OnlineBankning\OnlineBankning\obj\Debug\OnlineBankning.csprojAssemblyReference.cache
